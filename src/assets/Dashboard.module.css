@@ -1,0 +1,9 @@
+.container {
+    list-style: none;
+    display:grid;
+    gap: 20px 0;;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    margin:0 auto;
+    width:90%;    
+    position: relative;    
+}
