@@ -1,6 +1,6 @@
 # Memorama 
 
-Simple memorama built in React and D3 js
+Simple memorama built in React and D3 js (@2022)
 
 ## Description
 
